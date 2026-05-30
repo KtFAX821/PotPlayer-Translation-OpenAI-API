@@ -1,7 +1,7 @@
 # PotPlayer Translation OpenAI API
 
-### [English](https://github.com/Fung-2025/potplayer-translation-openaiapi/blob/main/README.md)/[简体中文](https://github.com/Fung-2025/potplayer-translation-openaiapi/blob/main/README-cn.md)
-### [免责声明](https://github.com/Fung-2025/potplayer-translation-openaiapi/blob/main/Disclaimer.md)
+### [English](https://github.com/KtFAX821/PotPlayer-Translation-OpenAI-API/blob/main/README.md)/[简体中文](https://github.com/KtFAX821/PotPlayer-Translation-OpenAI-API/blob/main/README-cn.md)
+### [免责声明](https://github.com/KtFAX821/PotPlayer-Translation-OpenAI-API/blob/main/Disclaimer.md)
 ## 项目介绍
 
 本项目已由作者开源
